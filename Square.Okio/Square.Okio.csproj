@@ -15,8 +15,8 @@
     <FileVersion>1.17.4.0</FileVersion>
     <InformationalVersion>1.17.4.0</InformationalVersion>
     <PackageVersion>1.17.4</PackageVersion>
-    <PackageId>Square.Okio</PackageId>
-    <Product>Square.Okio</Product>
+    <PackageId>Rightek.Square.Okio</PackageId>
+    <Product>Rightek.Square.Okio</Product>
     <Title>Square.Okio binding for Xamarin.Android</Title>
     <Summary>A modern I/O library for Android, Kotlin, and Java</Summary>
     <Description>A modern I/O library for Android, Kotlin, and Java</Description>
@@ -27,7 +27,7 @@
     <PackageProjectUrl>https://github.com/rightek/square.okio</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rightek/square.okio</RepositoryUrl>
     <PackageIconUrl></PackageIconUrl>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>okio square square.okio xamarin android monodroid</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
